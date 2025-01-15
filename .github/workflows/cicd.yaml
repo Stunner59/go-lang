@@ -45,7 +45,7 @@ jobs:
     #     version: v1.56.2
     #     args: --timeout 5m
     - name: Setup golangci-lint Action
-      uses: nickhstr/action-setup-golangci-lint@v0.1.0
+      uses: golangci/golangci-lint-action@v6
       with:
         version: v1.46.0
   
