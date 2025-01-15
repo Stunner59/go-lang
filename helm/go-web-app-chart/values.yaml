@@ -8,7 +8,7 @@ image:
   repository: stunner59/devopsify_app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "12793292738"
+  tag: "12793335077"
 
 ingress:
   enabled: false
